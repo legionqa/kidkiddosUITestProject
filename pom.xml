@@ -76,7 +76,7 @@
     </dependencies>
 
     <build>
-        <finalName>Chess</finalName>
+        <finalName>KiKiddos</finalName>
 
         <plugins>
 
